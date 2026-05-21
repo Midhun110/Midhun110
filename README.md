@@ -59,7 +59,7 @@ From detecting cardiac anomalies with AI-powered stethoscopes to exposing image 
   <a href="https://www.linkedin.com/in/midhun-prakash-j-99612a389l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="midhunprakash110@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
