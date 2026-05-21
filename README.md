@@ -40,12 +40,12 @@ From detecting cardiac anomalies with AI-powered stethoscopes to exposing image 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midhun110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun110&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Midhun110&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun110&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midhun110&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Midhun110&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ From detecting cardiac anomalies with AI-powered stethoscopes to exposing image 
   <a href="https://www.linkedin.com/in/midhun-prakash-j-99612a389l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="midhunprakash110@gmail.com">
+  <a href="mailto:midhunprakash110@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
