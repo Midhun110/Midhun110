@@ -56,7 +56,7 @@ From detecting cardiac anomalies with AI-powered stethoscopes to exposing image 
   <a href="https://midhun-cardio-screen.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-CardioScan%20AI-00d4ff?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/midhun-prakash-j-99612a389l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your@email.com">
