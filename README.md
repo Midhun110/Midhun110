@@ -12,8 +12,7 @@ I'm a  engineering student passionate about building intelligent systems that so
 From detecting cardiac anomalies with AI-powered stethoscopes to exposing image forgeries using photon noise analysis — I love pushing the boundaries of what's possible with machine learning.
 
 - 🔬 Currently building: **CardioScan AI** — a web-based smart stethoscope with AI/ML cardiac & respiratory detection
-- 🕵️ Also working on: **S.I.G.M.A. / VERITAS** — physics-based AI forgery detection (EXIF forensics + FFT analysis)
-- 🌾 Past work: **Annapurna Farm Labs** — precision agriculture & predictive analytics for sustainable farming
+🚗 Recently built: **Car Escape Puzzle** – a browser-based 2D puzzle game with smooth animations, responsive controls, and multiple challenging levels.
 - 📍 Based in Kerala, India
 - 🎯 Interests: AI/ML, Computer Vision, Signal Processing, AgriTech
 
