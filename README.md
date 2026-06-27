@@ -32,8 +32,7 @@ From detecting cardiac anomalies with AI-powered stethoscopes to exposing image 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
 | 🫀 **CardioScan AI** | Web-based smart stethoscope — AI/ML cardiac & respiratory detection | Python, ML, Node.js | [🔗 Live](https://midhun-cardio-screen.vercel.app/) |
-| 🕵️ **S.I.G.M.A. / VERITAS** | Physics-based image forgery detection — EXIF forensics, photon noise & FFT analysis | Python, OpenCV, FFT | IPR Project |
-| 🌾 **Annapurna Farm Labs** | Precision agriculture & predictive analytics for sustainable farming | AI/ML, Data Analytics | Business Plan |
+| 🚗 **Car Escape Puzzle** | Browser-based 2D car escape puzzle game with smooth animations, multiple levels, and responsive controls | HTML, CSS, JavaScript | [🔗 Live](https://car-escape-puzzle.vercel.app/) |
 
 ---
 
