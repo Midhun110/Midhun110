@@ -8,8 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a  engineering student passionate about building intelligent systems that solve real-world problems.  
-From detecting cardiac anomalies with AI-powered stethoscopes to exposing image forgeries using photon noise analysis — I love pushing the boundaries of what's possible with machine learning.
+I'm an Electronics and Communication Engineering student passionate about building intelligent software, AI-powered applications, and interactive web experiences that solve real-world problems.
 
 - 🔬 Currently building: **CardioScan AI** — a web-based smart stethoscope with AI/ML cardiac & respiratory detection
 🚗 Recently built: **Car Escape Puzzle** – a browser-based 2D puzzle game with smooth animations, responsive controls, and multiple challenging levels.
