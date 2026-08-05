@@ -223,7 +223,7 @@
   <a href="https://www.linkedin.com/in/midhun-prakash-j-99612a389l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://midhun-cardio-screen.vercel.app/" target="_blank">
+  <a href="https://portfolio-x7pf.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:midhunprakash110@gmail.com">
