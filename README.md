@@ -140,8 +140,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midhun110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7c3aed&icon_color=4361ee" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun110&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Midhun110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7c3aed&icon_color=4361ee" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Midhun110&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -149,12 +149,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhun110&theme=react-dark&hide_border=true&area=true&color=7c3aed" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/7c3aed/Midhun110" width="100%" alt="Contribution Graph" />
 </p>
 
 <!-- Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Midhun110/Midhun110/main/github-user-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Midhun110/Midhun110/output/github-user-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <br/>
