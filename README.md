@@ -79,6 +79,19 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🛡️ JourneyGuard AI</h3>
+      <p>AI-powered predictive travel risk and safe-route intelligence system that analyzes weather conditions, route information, and potential disruptions to recommend safer travel routes.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Midhun110/JourneyGuard-AI"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="YOUR_LIVE_DEMO_URL" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🏋️ Govio Fitness</h3>
       <p>Modern cross-platform fitness application built with React Native and Expo featuring tailored workout plans, daily diet tracking, progress dashboard, and real-time Supabase backend integration.</p>
       <p align="center">
@@ -87,9 +100,12 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/Midhun110"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Midhun110/Govio-Fitness"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://govio-fitness.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🪚 Carpenter Expense Tracker</h3>
       <p>Real-world business management application designed for carpenter businesses featuring customer record management, material expense tracking, worker payment ledgers, automated PDF invoice generation, and a mobile-first UI.</p>
@@ -100,10 +116,9 @@
       </p>
       <p align="center">
         <a href="https://github.com/Midhun110"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://expense-tracker-six-olive-62.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧩 Car Escape Puzzle</h3>
       <p>Interactive 2D grid puzzle game inspired by Rush Hour, featuring fluid vehicle movement mechanics, multiple progressive difficulty levels, smooth animations, and responsive browser gameplay.</p>
@@ -117,6 +132,8 @@
         <a href="https://car-escape-puzzle.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🫀 CardioScan AI</h3>
       <p>Innovative healthcare technology research concept that processes heart sound recordings using digital acoustic signal filtering and machine learning classification models for cardiac health screening.</p>
@@ -130,6 +147,7 @@
         <a href="https://midhun-cardio-screen.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
