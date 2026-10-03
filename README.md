@@ -158,8 +158,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Midhun110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7c3aed&icon_color=4361ee" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Midhun110&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Midhun110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7c3aed&icon_color=4361ee" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun110&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
